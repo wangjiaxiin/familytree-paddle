@@ -9,8 +9,8 @@ import paddlehub as hub
 import cv2
 
 # client_id 为官网获取的AK， client_secret 为官网获取的SK
-api_key = "你的api_key"
-secret_key = "你的secret_key"
+api_key = "rQZZ2hlrvVgWO1thWtGahprp"
+secret_key = "HGROfic8I6D5M0XgyuvFdaoX0wDN40ft"
 
 face_detector = hub.Module(name="pyramidbox_lite_mobile")
 
